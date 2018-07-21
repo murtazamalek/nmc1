@@ -7,12 +7,6 @@ var environments = {};
 
 // Configure the parameters for the staging server
 environments.staging = {
-    'httpPort': 1000,
-    'envName' : 'Home Assignment #1 - Staging'
-}
-
-// Configure the parameters for the production server
-environments.staging = {
     'httpPort': 2000,
     'envName' : 'Home Assignment #1 - Staging'
 }
